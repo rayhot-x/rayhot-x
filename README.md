@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to My Portfolio! 👋  
 
-<!--
-**rayhot-x/rayhot-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a versatile developer passionate about creating immersive digital experiences.  
+I specialize in **web development, game development, and VR applications**, but my expertise extends to various programming languages and technologies.  
 
-Here are some ideas to get you started:
+🚀 **What I Do:**  
+- **Web Development** – Crafting sleek, responsive, and functional websites.  
+- **Game Development** – Building engaging gameplay experiences.  
+- **VR Applications** – Developing immersive virtual reality projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 **Explore My Work:**  
+My repositories showcase a range of personal and professional projects, each reflecting my skills and passion for development.  
+
+Feel free to explore and reach out! Let's build something amazing. 🚀
